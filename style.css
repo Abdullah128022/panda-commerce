@@ -17,7 +17,7 @@
     border: black;
     border-radius: 9px;
     cursor: pointer;
-    padding: 10px 20px;
+    padding: 12px 20px;
     
 }
 .Buy-now-button:hover{
@@ -28,3 +28,26 @@
     cursor: pointer;
     padding: 10px 20px;
 }
+.cat1{
+    background-color: orange;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: rgb(236, 119, 10);
+    border-radius: 10px;
+}
+.cat3{
+    background-color: rgb(16, 54, 226);
+    border-radius: 10px;  
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+
+
